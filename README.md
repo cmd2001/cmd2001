@@ -1,10 +1,8 @@
 ### About ME
 
-A piece of rubbish in SJTU.
+いつか、私はこの世界を殺します
 
-Please throw me into a dustbin.
-
-今日は私が死にたい別の日です。
+终有一日，我将斩了这个世界
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmd2001&count_private=true&show_icons=true&hide=issues" />
@@ -12,8 +10,6 @@ Please throw me into a dustbin.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmd2001&layout=compact&hide=javascript,html,makefile,css&langs_count=10" />
 </a>
-
-However, I don't even know how to build a website by PHP.(I always use python3, instead)
 
 [My Blog](https://amagi.yukisaki.io/)
 
